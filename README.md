@@ -1,2 +1,6 @@
 # Mac-Vendor-Finder
-This Repo contains python code for find mac vendor name single or in bulk list of excel file.   
+To find the detail of Mac Mac-Vendor-Finder helps to find the mac vendor Single or Bulk excel file of mac
+Note : The code is present in different branch Name: master.
+
+Rest of the details find in master branch.
+So Switch fast and check.
